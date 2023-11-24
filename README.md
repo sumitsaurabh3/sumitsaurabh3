@@ -2,7 +2,7 @@
 <img align="center" width="1200" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR1MzZscTloZXQxNG1obTcxbWtqbDJoZjF5bHN2eXJxMHI3OTAwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif)"></div>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h1 align="center">Hi 👋, I'm Sumit Saurabh</h1>
-<h3 align="center">Comptetative Programmer || Web developer|| Android Developer</h3>
+<h3 align="center">Competitive Programmer || Web developer|| Android Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsaurabh3&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsaurabh3" /> </p>
 
 -  I’m currently Looking for the Opportunity
