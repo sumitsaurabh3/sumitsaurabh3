@@ -5,7 +5,7 @@
 <h3 align="center">Competitive Programmer || Web developer|| Android Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsaurabh3&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsaurabh3" /> </p>
 
--  I’m currently Looking for the Opportunity
+-  I’m currently Looking for Software Developer,Flutter Developer and Web Developer Opportunity
  
 - 🧑‍🎓 I’m currently in 4th Year in IIIT Sonepat.
  
@@ -13,7 +13,7 @@
 
 - 📧 You can contact me at sumitsaurabh799@gmail.com 
 
-- 👨‍💻 I’m currently learning Development 
+- 👨‍💻 I’m  learning Web and Android Development 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
