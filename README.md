@@ -13,7 +13,7 @@
 
 - 📧 You can contact me at sumitsaurabh799@gmail.com 
 
-- 👨‍💻 I’m  learning Web and Android Development 
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
