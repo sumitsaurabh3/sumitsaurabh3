@@ -7,7 +7,7 @@
 
 -  I’m currently Looking for Software Developer Opportunity
  
-- 🧑‍🎓 I’m currently in 4th Year in IIIT Sonepat.
+- 🧑‍🎓 I’m currently in Ist Year in NIT Kurukshetra.
  
 - 🌎 I’m based In India
 
